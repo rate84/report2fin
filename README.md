@@ -47,6 +47,7 @@ $ source ~/.bashrc
 
 # 実際の動作の様子
 
+https://youtu.be/pESZtdHxPBY
 
 # ライセンス
 [BSD 3-Clause License](https://github.com/rate84/report2fin/blob/main/LICENSE)
