@@ -7,7 +7,7 @@
  * ubuntuのセットアップは以下を参考にした．
  * https://ryuichiueda.github.io/robosys2020/lesson1_introduction.html
  
- *[ros_setup_scripts_Ubuntu20.04](http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)
+ * [ros_setup_scripts_Ubuntu20.04](http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)
 # 動作環境  
 ・Raspberry Pi 2 Model B    
 ・Ubuntu 20.04.1 LTS  
