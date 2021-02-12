@@ -44,15 +44,9 @@ $ source ~/.bashrc
 `$ rosnode list`と`$ rostopic list`でノードとトピックを確認。  
 `$ rostopic echo /count_up` 、`$ rostopic echo /twice`でデータを取り出し。　
 
-# デモ動画  
-・count.py  
-https://www.youtube.com/watch?v=di_exuS_x94  
-・twice.py  
-https://www.youtube.com/watch?v=CDDHCLWzFu8  
-_ _ _
-# 参考著者  
-[Ryuichi Ueda](https://github.com/ryuichiueda)
-_ _ _
+# 実際の動作の様子
+
+
 # ライセンス
-BSD 3-Clause License
+[BSD 3-Clause License]
 
