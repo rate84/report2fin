@@ -1,12 +1,15 @@
-# リポジトリの概要
-<ロボットシステム学　課題２>  
-第10回で作成したROSのパッケージをベースに、オリジナリティーある改造をして、GitHubに置いてください。ROSで何か（必ずしもハードウェアである必要はありません）を動かしている様子をビデオに撮影してYouTubeに公開してください。第9回の内容も考慮し、リポジトリにはライセンスや著作権の記述もしてください。ROSの設定ファイルにもライセンスを記述する箇所がありますので、ご注意ください。
-_ _ _
-# 実装内容
-上田先生が作成したROSのパッケージを自分できちんと動かせるかを試しました。
-_ _ _
+# 2020 ロボットシステム学 課題２
+
+提出版になります．宜しくお願い致します．
+
+# 事前準備
+
+ * ubuntuのセットアップは以下を参考にした．
+ * https://ryuichiueda.github.io/robosys2020/lesson1_introduction.html
+ 
+ *[ros_setup_scripts_Ubuntu20.04](http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)
 # 動作環境  
-・Raspberry Pi 4 Model B(8G)    
+・Raspberry Pi 2 Model B    
 ・Ubuntu 20.04.1 LTS  
 ・ROS Noetic
 _ _ _
