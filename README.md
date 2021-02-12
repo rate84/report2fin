@@ -16,19 +16,23 @@
 ・Ubuntu 20.04.1 LTS  
 ・ROS Noetic
 
-# 実行方法
+# パッケージ
 
  ```
 以下のコマンドを実行して、パッケージをクローンします。   
+
 $ cd ~/catkin_ws/src
 $ cd clone https://github.com/rate84/report2fin
+
 catkin_makeを使用して、本パッケージをビルドします。  
+
 $ cd ~/catkin_ws 
 $ catkin_make
 $ source ~/.bashrc
  ```
-_ _ _
+
 # 実行方法  
+
 端末１  
 `$ roscore`  
 
@@ -37,9 +41,9 @@ _ _ _
 `$ rosrun mypkg count.py` 、`rosrun mypkg twice.py`  
 
 端末３  
-`$ rosnode list`と`$ rostopic list`でノードとトピックを確認します。  
-`$ rostopic echo /count_up` 、`$ rostopic echo /twice`でデータを取り出します。　
-_ _ _
+`$ rosnode list`と`$ rostopic list`でノードとトピックを確認。  
+`$ rostopic echo /count_up` 、`$ rostopic echo /twice`でデータを取り出し。　
+
 # デモ動画  
 ・count.py  
 https://www.youtube.com/watch?v=di_exuS_x94  
