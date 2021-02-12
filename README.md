@@ -39,7 +39,7 @@ $ source ~/.bashrc
 
 端末２   
 `$ chmod +x count.py` 、`$ chmod +x twice.py`  
-`$ rosrun mypkg count.py` 、`rosrun mypkg twice.py`  
+`$ rosrun report2fin count.py` 、`rosrun report2fin twice.py`  
 
 端末３  
 `$ rosnode list`と`$ rostopic list`でノードとトピックを確認。  
