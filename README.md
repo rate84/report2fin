@@ -18,10 +18,9 @@
 
 # 実行方法
 
-**・パッケージ**  
 以下のコマンドを実行して、パッケージをクローンします。   
 $ cd ~/catkin_ws/src
-$ cd clone https://github.com/rate84/report2fin`  
+$ cd clone https://github.com/rate84/report2fin
 catkin_makeを使用して、本パッケージをビルドします。  
 $ cd ~/catkin_ws 
 $ catkin_make
