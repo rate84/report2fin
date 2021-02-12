@@ -7,27 +7,25 @@
  * ubuntuのセットアップは以下を参考にした．
  * https://ryuichiueda.github.io/robosys2020/lesson1_introduction.html
  
+ * ROSのインストール方法および環境構築は以下を参考にした．
  * [ros_setup_scripts_Ubuntu20.04](http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)
+ * [ロボットシステム学第１０回](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)
+ 
 # 動作環境  
 ・Raspberry Pi 2 Model B    
 ・Ubuntu 20.04.1 LTS  
 ・ROS Noetic
-_ _ _
-# インストール方法
-**・ROS**    
-[ros_setup_scripts_Ubuntu20.04](http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)をもとにROSの環境構築をします。  
 
-**・ワークスペース**     
-[ロボットシステム学第１０回](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)をもとにワークスペースを作成します。  
+# 実行方法
 
 **・パッケージ**  
 以下のコマンドを実行して、パッケージをクローンします。   
-`$ cd ~/catkin_ws/src`  
-`$ cd clone https://github.com/FujitaRyo/mypkg`  
+$ cd ~/catkin_ws/src
+$ cd clone https://github.com/rate84/report2fin`  
 catkin_makeを使用して、本パッケージをビルドします。  
-`$ cd ~/catkin_ws`  
-`$ catkin_make`  
-`$ source ~/.bashrc`  
+$ cd ~/catkin_ws 
+$ catkin_make
+$ source ~/.bashrc
 _ _ _
 # 実行方法  
 端末１  
